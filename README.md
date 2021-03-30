@@ -1,5 +1,5 @@
 # Website
-国瑞公司网站，这是一款用vue框架搭建的响应式页面
+这是一款用vue框架搭建的响应式网站
 
 # 运行通过一下步骤
 1、git clone https://github.com/wuhanyu521/Website.git
